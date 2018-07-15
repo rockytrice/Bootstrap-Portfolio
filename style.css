@@ -13,16 +13,9 @@ body {
     color: white;
     width: 70px;
 } 
-.footer {
-background-color: transparent;
-width: 100%;
-min-height: 300px;
-text-align: center; 
-border-style: solid;
-border-color: crimson;
+
+
 
 }
-.container {
-    margin-bottom: 300px;
-}
+
 
