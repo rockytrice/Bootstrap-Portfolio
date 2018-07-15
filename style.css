@@ -25,6 +25,7 @@ body#page2 {
 
 .footer {
     margin-top: 141px;
+    text-align: center;
 }
 .navbar-nav {
     margin-right: auto;
@@ -45,10 +46,20 @@ padding: 2px;
 .navbar {
     margin-bottom: 58px;
 }
-.container {
+.container-form {
     margin-left: 30%;
     margin-top: 64px;
 }
 .far {
     color: darkgray;
 }
+.fa-github:before {
+   color: white;
+}
+.fa-facebook:before {
+color: white;
+}
+.fa-linkedin:before {
+    color: white;
+}
+
