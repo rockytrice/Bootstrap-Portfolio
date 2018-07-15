@@ -35,3 +35,20 @@ body#page2 {
 .form-control {
     width: 50%;
 }
+
+.far-fa-id-card {
+padding: 2px;
+}
+::before {
+    margin-right: 10px;
+}
+.navbar {
+    margin-bottom: 58px;
+}
+.container {
+    margin-left: 30%;
+    margin-top: 64px;
+}
+.far {
+    color: darkgray;
+}
