@@ -1,14 +1,14 @@
 body {
-    /* background-image: url("https://images.unsplash.com/photo-1454165205744-3b78555e5572?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=863ffeea823f0ffb0885fe1a5e77e645&auto=format&fit=crop&w=1350&q=80;");
+    background-image: url("https://img.freepik.com/vetores-gratis/fundo-sem-emenda-do-teste-padrao-do-damasco-do-vetor-ornamento-classico-de-damasco-de-luxo-classico-textura-sem-igual-victoriana-para-papeis-de-parede-texteis-embrulho-molde-barroco-floral-requintado_1217-381.jpg?size=338&ext=jpg");
     background-size: cover;
     color: white;
-    font-size: 20px; */
+    font-size: 20px;
 }
 .jumbotron {
     margin-top: 20px;
-    /* color: white;  */
-   /* background-color: transparent; */
-   font-size: 24px;
+    
+    background-color: transparent;
+    font-size: 24px;
 } 
 
 
@@ -31,4 +31,7 @@ body#page2 {
 }
 .navbar-dark .navbar-nav .active>.nav-link, .navbar-dark .navbar-nav .nav-link.active, .navbar-dark .navbar-nav .nav-link.show, .navbar-dark .navbar-nav .show>.nav-link {
     color: red;
+}
+.form-control {
+    width: 50%;
 }
