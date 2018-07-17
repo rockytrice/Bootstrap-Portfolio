@@ -4,6 +4,9 @@ body {
     color: white;
     font-size: 20px;
 }
+p {
+    font-family:'Cinzel', serif;
+}
 .jumbotron {
     margin-top: 20px;
     text-align: left;
@@ -13,6 +16,7 @@ body {
 
 h1 {
     font-size: 80px;
+    font-family: Playfair Display SC, serif;
 }
 
 body#page2 {
