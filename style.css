@@ -4,6 +4,9 @@ body {
     color: white;
     font-size: 20px;
 }
+li {
+    font-family: 'Neuton', serif;
+}
 p {
     font-family:'Cinzel', serif;
 }
@@ -14,7 +17,7 @@ p {
     font-size: 24px;
 } 
 
-h1 {
+h1{
     font-size: 80px;
     font-family: Playfair Display SC, serif;
 }
@@ -39,6 +42,7 @@ body#page2 {
 .navbar-dark .navbar-nav .active>.nav-link, .navbar-dark .navbar-nav .nav-link.active, .navbar-dark .navbar-nav .nav-link.show, .navbar-dark .navbar-nav .show>.nav-link {
     color: red;
 }
+
 .form-control {
     width: 50%;
 }
@@ -49,6 +53,7 @@ padding: 2px;
 ::before {
     margin-right: 10px;
 }
+
 .navbar {
     margin-bottom: 58px;
 }
