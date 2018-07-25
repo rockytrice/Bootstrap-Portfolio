@@ -73,4 +73,11 @@ color: white;
 .fa-linkedin:before {
     color: white;
 }
-
+.card-text{
+    color: black;
+    font-weight: bold;
+}
+h5{
+    color: black;
+    font-weight: bolder;
+}
