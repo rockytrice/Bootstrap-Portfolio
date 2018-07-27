@@ -81,3 +81,6 @@ h5{
     color: black;
     font-weight: bolder;
 }
+.card-body{
+    background-color: grey;
+}
